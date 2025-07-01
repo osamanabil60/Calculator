@@ -6,8 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-file:///C:/Users/osama/Desktop/Screenshot%20.jpg
-
+![My Photo](file:///C:/Users/osama/Desktop/Screenshot%20.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
